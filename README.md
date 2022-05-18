@@ -14,6 +14,6 @@
 
 <br>
 
-[![Readme Card](https:// alrorithm_prac.vercel.app/api/pin/?username=qusgmlwo&repo=mini-project-team9)](https://github.com/qusgmlwo/alrorithm_prac.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qusgmlwo&repo=alrorithm_prac)](https://github.com/qusgmlwo/alrorithm_prac.git)
 
 <br>
