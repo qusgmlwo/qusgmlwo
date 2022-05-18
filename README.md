@@ -12,5 +12,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
 
 <br>
- <img src="https://img.shields.io/github/languages/top/beygee/survive" />
+
 
