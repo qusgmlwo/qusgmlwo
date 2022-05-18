@@ -14,6 +14,6 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qusgmlwo&repo=mini-project-team9)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qusgmlwo&repo=mini-project-team9)](https://github.com/Yudove/mini-project-team9.git)
 
 <br>
