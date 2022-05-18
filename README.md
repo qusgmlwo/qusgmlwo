@@ -10,7 +10,7 @@
  </h1>
 
 <h1>
- 나의 깃허브 
+ 나의 깃허브: 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
 </h1>
 
