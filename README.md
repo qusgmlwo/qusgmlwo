@@ -1,6 +1,6 @@
 ### 
 <img src="https://capsule-render.vercel.app/api?waving=Rect&color=auto&height=300&section=header&text=welcome&fontSize=90" />
-<img src="https://img.shields.io/badge/logo-python-blue?logo=python" />
+<img src="https://img.shields.io/badge/''-python-blue?logo=python" />
 
 
 
