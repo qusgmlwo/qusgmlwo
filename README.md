@@ -9,13 +9,13 @@
   <img src="https://img.shields.io/badge/-mongoDB-green?logo=mongoDB&logoColor=white" />
  </h1>
 
-<h2>나의 깃허브 스탯</h2>
+<h2>나의 git-hub stats</h2>
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
 
-<h2>나의 </h2>
+<h2>나의 repository</h2>
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qusgmlwo&repo=alrorithm_prac)](https://github.com/qusgmlwo/alrorithm_prac.git)
