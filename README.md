@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-https://img.shields.io/static/v1?label=<#3776AB>&message=<python>&color=<informational>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <!--
 **qusgmlwo/qusgmlwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
