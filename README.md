@@ -14,6 +14,6 @@
 
 <br>
 
-[![Readme Card](https:// mini-project-team9.vercel.app/api/pin/?username=qusgmlwo&repo=mini-project-team9)](https://github.com/Yudove/mini-project-team9.git)
+https:// mini-project-team9.vercel.app/api/pin/?username=qusgmlwo&repo=mini-project-team9)](https://github.com/Yudove/mini-project-team9.git)
 
 <br>
