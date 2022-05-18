@@ -9,12 +9,12 @@
   <img src="https://img.shields.io/badge/-mongoDB-green?logo=mongoDB&logoColor=white" />
  </h1>
 
-<div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
-</div>
+
 
 <br>
-<div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qusgmlwo&repo=alrorithm_prac)](https://github.com/qusgmlwo/alrorithm_prac.git)
-</div>
+
 <br>
