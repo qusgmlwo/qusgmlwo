@@ -8,12 +8,10 @@
  <img src="https://img.shields.io/badge/-react-skyblue?logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-mongoDB-green?logo=mongoDB&logoColor=white" />
  </h1>
-<br>
-<h1>
- 나의 깃허브: 
- </h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
 
+<div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
+</div>
 
 <br>
 
