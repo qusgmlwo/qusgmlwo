@@ -3,7 +3,7 @@
 
 
 <h1>
-<img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" />
+사용하는 프로그램 종류 : <img src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white" />
  </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
