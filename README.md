@@ -25,9 +25,9 @@
  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
 
 
-<h2>나의 git-hub stats</h2>
+ <h3 align="center">✨ My GitHub Stats ✨</h3>
+  <div align="center">
 
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
 
