@@ -29,10 +29,3 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusgmlwo&show_icons=true&theme=radical)
-
-<h2>나의 repository</h2>
-<br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=qusgmlwo&repo=alrorithm_prac)](https://github.com/qusgmlwo/alrorithm_prac.git)
-
-<br>
